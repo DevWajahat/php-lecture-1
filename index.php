@@ -36,14 +36,37 @@ $a = 10;
     echo "<br>";
 */
 // increment operator
-$int1 = 10;
-$int1+=3;
-echo $int1;
-echo "<br>";
+
+
+// $int1 = 10;
+// $int1+=3;
+// echo $int1;
+// echo "<br>";
+
+
+
 // decrement operator
-$int1 --;
-echo $int1;
-echo "<br>"
-    ?>
+
+// $int1 --;
+// echo $int1;
+// echo "<br>"
+
+// predefine functions
+
+echo strlen("Ahmed nalla phir bhi behtar hai.");
+echo "<br>";
+
+echo str_word_count("Rizwan Akhter");
+echo "<br>";
+
+echo strrev("Affan bhai farigh hai");
+echo "<br>";
+
+echo strpos("Jazim busy insaan", "busy");
+echo "<br>";
+
+echo str_replace("Wajahat","Abbas","Wajahat is best");
+
+?>
 </body>
 </html>
