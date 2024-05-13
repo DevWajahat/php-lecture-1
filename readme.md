@@ -1,0 +1,1 @@
+php is a smart language that can auto detect all variables data types
