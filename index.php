@@ -21,13 +21,20 @@ $a = 10;
 
 
 
-    $a= 12;
+  /*  $a= 12;
     $b= 5.987;
     $c = "Rizwan Akhter";
     $d = true;
     // print all variables
     echo $a;
     echo "<br>";
+    echo $b;
+    echo "<br>";
+    echo $c;
+    echo "<br>";
+    echo $d;
+    echo "<br>";
+*/
     ?>
 </body>
 </html>
