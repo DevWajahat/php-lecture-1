@@ -35,6 +35,15 @@ $a = 10;
     echo $d;
     echo "<br>";
 */
+// increment operator
+$int1 = 10;
+$int1+=3;
+echo $int1;
+echo "<br>";
+// decrement operator
+$int1 --;
+echo $int1;
+echo "<br>"
     ?>
 </body>
 </html>
